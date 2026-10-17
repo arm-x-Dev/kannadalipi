@@ -1,4 +1,4 @@
-# Aksharamale (ಅಕ್ಷರಮಾಲೆ) 🌸
+# Aksharamale (ಅಕ್ಷರಮಾಲೆ) 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Language-Rust_1.80+-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Language Rust" />
@@ -146,4 +146,11 @@ Physical Keypress (Windows Event)
 - **Software Code:** Licensed under the [MIT License](LICENSE).
 - **Bundled Font:** [Noto Serif Kannada](https://fonts.google.com/specimen/Noto+Serif+Kannada) by Google, licensed under the [SIL Open Font License 1.1](assets/fonts/OFL.txt).
 - **Phonetic Standard:** Dedicated to Professor **K.P. Rao**, whose pioneering layout made Kannada accessible on modern computing keyboards.
-"# KannadaLipi" 
+"# KannadaLipi"
+
+> [!NOTE]
+> **Windows SmartScreen Note:**  
+> Since Aksharamale is a free, community-driven open-source software and does not use an expensive corporate code-signing certificate, Windows SmartScreen may show a prompt: *"Windows protected your PC"*.  
+> 
+> Simply click **More info** ➔ **Run anyway**.  
+> The application is 100% offline, zero-telemetry, and safe. The complete source code is fully transparent and auditable right here on GitHub.
