@@ -1,0 +1,30 @@
+# Rust / Cargo build outputs
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# Windows binary and debugging files
+*.exe
+*.dll
+*.pdb
+*.obj
+*.lib
+*.ilk
+*.exp
+
+# Inno Setup installer build directory
+/dist/
+
+# IDE and OS metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary scripts
+*.ps1
